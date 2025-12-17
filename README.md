@@ -1,5 +1,8 @@
 # Windows Watchdog
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ed48393b-e841-4608-b46c-f11e57d9d79a" />
+
+
 **Unified Endpoint Telemetry for Windows (Userland Agent)**
 
 Windows Watchdog is a lightweight, transparent endpoint monitoring agent that aggregates native Windows telemetry into a single, real-time, human-readable timeline.
