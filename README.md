@@ -6,6 +6,13 @@
        width="400"
        height="400">
 
+<h2 align="center">where can i download it ?</h2>
+
+<p align="center">
+  <a href="https://mega.nz/file/dbUwwaSB#ETkh6vw3Y1cFAEp98wHXGPrJsMUXYZKdTnaM0s6NBr0">
+    👉 download from mega
+  </a>
+</p>
 
 **Unified Endpoint Telemetry for Windows (Userland Agent)**
 
