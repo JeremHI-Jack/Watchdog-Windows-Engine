@@ -1,6 +1,6 @@
 # Windows Watchdog
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ed48393b-e841-4608-b46c-f11e57d9d79a" />
+<img width="400" height="400" alt="image" center src="https://github.com/user-attachments/assets/ed48393b-e841-4608-b46c-f11e57d9d79a" />
 
 
 **Unified Endpoint Telemetry for Windows (Userland Agent)**
